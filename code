@@ -1,0 +1,8 @@
+frame_height = 213.36
+ 
+new_height = 91.44
+
+height = frame_height - new_height
+human_height = height/30.48
+
+print(" Your Height ! = ", str(human_height), " feet ")
